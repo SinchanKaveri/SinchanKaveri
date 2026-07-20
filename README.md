@@ -12,6 +12,8 @@
 | 🌾 [Crop Disease & Water Stress Detection](https://github.com/SinchanKaveri/crop-disease-detection) | Multi-modal AI pipeline (drone imagery + IoT) — 99.67% detection accuracy |
 | ☁️ [CloudFlow](https://github.com/SinchanKaveri/cloudflow) | CPU scheduling simulator comparing FCFS/SJF/Round Robin — 43% faster avg. waiting time |
 | 💬 [AI Chatbots](https://github.com/SinchanKaveri/academic-chatbot) | NLP academic assistant + Claude-powered mental health chatbot (MindEase) |
+| 🍽️ [QuickBite](https://github.com/SinchanKaveri/quickbite-swing) | Java Swing desktop food ordering system with cart & checkout flow |
+| 😊 [PulseHR](https://github.com/SinchanKaveri/pulsehr) | ML pipeline predicting employee satisfaction & attrition risk — 89% accuracy |
 
 ## 🛠️ Tech Stack
 
