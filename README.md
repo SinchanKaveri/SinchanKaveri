@@ -1,6 +1,6 @@
 # Hi, I'm Kaveri K K 👋
 
-🎓 B.E. Artificial Intelligence & Machine Learning student at B.M.S. College of Engineering, Bengaluru (CGPA: 8.6/10)
+🎓 B.E. Artificial Intelligence & Machine Learning student at B.M.S. College of Engineering, Bengaluru (CGPA: 9/10)
 🤖 Building projects across ML, systems, and full-stack development
 📫 Reach me: sinchankaveri30@gmail.com · [LinkedIn](https://linkedin.com/in/kaverikk30)
 
